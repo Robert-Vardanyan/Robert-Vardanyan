@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! 👋 My name is Robert, and I'm a Junior ML Developer with experience in Python for building machine learning models and integrating with databases, using asynchronous programming. Participated in various projects involving data analysis, model training, and deployment. Founded a startup focused on developing bots for commercial and individual needs, successfully managing the full development lifecycle from concept to implementation.
+
+### Hello! 👋 My name is Robert, and I'm a Junior ML Developer with experience in Python for building machine learning models and integrating with databases, using asynchronous programming. Participated in various projects involving data analysis, model training, and deployment. Founded a startup focused on developing bots for commercial and individual needs, successfully managing the full development lifecycle from concept to implementation.
 
 
 ## 🌐 Socials:
