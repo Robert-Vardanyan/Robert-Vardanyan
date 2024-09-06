@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello! 👋 My name is Robert, and I'm an aspiring programmer with a keen interest in artificial intelligence development using Python. My main passion is to craft innovative solutions using machine learning and deep learning algorithms.<br>Currently, I'm focused on exploring various libraries and frameworks for machine learning, as well as applying this knowledge to solve real-world problems.<br>I'm eager to exchange knowledge and collaborate on projects in the field of artificial intelligence. If you have any ideas or suggestions related to this area, I would love to hear them!<br>Feel free to reach out to me through my LinkedIn or GitHub profile if you have any questions, ideas, or just want to discuss machine learning and artificial intelligence.<br><br>Let's create the future together with artificial intelligence! 🚀
+Hello! 👋 My name is Robert, and I'm a Junior ML Developer with experience in Python for building machine learning models and integrating with databases, using asynchronous programming. Participated in various projects involving data analysis, model training, and deployment. Founded a startup focused on developing bots for commercial and individual needs, successfully managing the full development lifecycle from concept to implementation.
 
 
 ## 🌐 Socials:
